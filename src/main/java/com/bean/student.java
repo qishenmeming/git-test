@@ -12,5 +12,7 @@ public class student {
 
         System.out.println("222222222222");
         System.out.println("push commit");
+        System.out.println("pull commit");
+
     }
 }
